@@ -1,2 +1,2 @@
 # Hackerank-Python-
-Here i have written some python questions from hackerank 
+Here i have solved some Hackerrank codes
